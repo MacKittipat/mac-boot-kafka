@@ -14,6 +14,17 @@ docker-compose up
 
 ```
 
+## Send data 
+
+```
+curl -X POST \
+  http://localhost:8081/producers/messages \
+  -H 'Content-Type: application/json' \
+  -d '{
+	"id":1,
+	"message": "Hello World"
+}'
+```
 
 ## Reference 
 
