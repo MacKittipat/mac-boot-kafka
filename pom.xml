@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.6.RELEASE</version>
+        <version>2.3.2.RELEASE</version>
     </parent>
 
     <groupId>com.mackittipat</groupId>
@@ -29,7 +29,7 @@
             <dependency>
                 <groupId>org.springframework.kafka</groupId>
                 <artifactId>spring-kafka</artifactId>
-                <version>2.2.7.RELEASE</version>
+                <version>2.5.3.RELEASE</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
