@@ -48,4 +48,4 @@ curl -X POST \
 ## Reference 
 
 * https://www.confluent.io/blog/apache-kafka-spring-boot-application
-* https://docs.spring.io/spring-kafka/docs/2.2.7.RELEASE/reference/html/
+* https://docs.spring.io/spring-kafka/reference/html/
